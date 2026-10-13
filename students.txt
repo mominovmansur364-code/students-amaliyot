@@ -1,0 +1,2 @@
+ism: Nurbek
+ID: 1
